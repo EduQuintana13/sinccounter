@@ -1,0 +1,30 @@
+[
+    {
+"id":"1",
+        "title":"Zanahorias secas",
+        "description":"Zanahorias secadas naturalmente bajo el sol, nada de quimicos y procesos adicionales, son ideales para hacer una rica casuela o bien para hacer arroz o acompañar ensalada de papas. Se puede dejar remojando por un par de horas y las zanahorias recuperan su textura natural. También un rico snack natural lleno de vitaminas y minerales como papas. Perfecto para llevar a campar duració estimada 3 años mas si no se expone a humedad",
+        "price":5000,
+        "categoryid":1,
+        "stock":2,
+        "pictureurl":"https://www.harmonyhousefoods.com/assets/images/Carrots_Zip%204.jpg"
+    },
+    {
+"id":"2",
+        "title":"Berenjena seca",
+        "description":"Esta verdura seca es una bomba de vitaminas, perfectas para acompañar arroz, salsa, sopa y casuela. La berenjena es un super alimento super nutritivo y de verdad hace un cambio en la vida de las personas que la incorporan en su dieta haz ese cambio ahora. Duración estimada 3 años",
+        "price":5000,
+        "categoryid":1,
+        "stock":3,
+    "pictureurl":"https://thefreerangelife.com/wp-content/uploads/2013/09/IMG_0453.jpg"
+    },
+    {
+"id":"3",
+        "title":"Manzana Seca",
+        "description":"Manza seca es el snack ideal para deportista o simplemente para ir de paseo, dulce pero a la vez nutritiva. También se puede utilizar en postres y es deliciosa para acompañar avena caliente por las mañanas con un toque de canela y miel. Que estas esperando compra la tuya ahora duración estimada 3 años.",
+        "price":5000,
+        "categoryid":2,
+        "stock":4,
+    "pictureurl":"https://thumbs.dreamstime.com/b/manzana-seca-23648003.jpg"
+    }
+
+]
